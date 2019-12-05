@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/MainMenu.unity
+    guid: f07574c533722064a881686a505ca0f0
+  - enabled: 1
+    path: Assets/Cenas/Plumbus_C_137.unity
+    guid: 36513f20ad5efb14bb4f9c8ba9265a39
+  - enabled: 1
+    path: Assets/Cenas/CustomScene.unity
+    guid: 818512c2da2b11f4ab9e985ffc085952
+  - enabled: 1
+    path: Assets/Cenas/GameOver.unity
+    guid: 22ff89ffbbf3e854881a864fded2067c
+  - enabled: 1
+    path: Assets/Cenas/LevelSelector.unity
+    guid: 9e5133bd1f5e749429f10943d8d7247b
+  - enabled: 1
+    path: Assets/Cenas/Shmebulock_B_08.unity
+    guid: 263879c183ee3d94994a6f500f33faf6
+  - enabled: 1
+    path: Assets/Cenas/Bannakaffalatta_T_98.unity
+    guid: ea4d7e87951ee884799aa0e5365f807f
+  - enabled: 1
+    path: Assets/Cenas/Ooo_J_10.unity
+    guid: 1fce6ebb8b20836478eecbb669fe6eb2
+  - enabled: 1
+    path: Assets/Cenas/Stavromula_Beta_D_42.unity
+    guid: c49fdade8bb8e2944a2b490a1d92457e
+  - enabled: 1
+    path: Assets/Cenas/Yog Sothoth_C_816.unity
+    guid: 09ad7ff0dcacb9a4ca9e21aa69027028

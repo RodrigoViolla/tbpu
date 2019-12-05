@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/Plumbus_C_137.unity
+  isLoaded: 1
+  isActive: 1
